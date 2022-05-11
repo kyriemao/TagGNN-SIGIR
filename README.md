@@ -12,9 +12,6 @@ In this work, we proposed TagGNN, a heterogeneous graph neural network for more 
 
 
 ## Code
-* main.py: All python code to reproduce UltraGCN
-* dataset_name_config.ini: The configuration file which includes parameter settings for reproduction on the specific dataset.
-
 ```bash
-python main.py --config_file dataset_config.ini
+bash run.sh
 ```
