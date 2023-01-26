@@ -12,6 +12,7 @@ In this work, we proposed TagGNN, a heterogeneous graph neural network for more 
 
 
 ## Code
+To reproduce the results of the main table:
 ```bash
 bash run.sh
 ```
